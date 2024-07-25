@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #c99d9d;
+}
+
+.container{
+    background-color: #ba8f8f;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 150px;
+}
+
+h2{
+    color: #000000;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+th,
+td{
+    text-align: center;
+}
+
+#totalAmount{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.header .logo {
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+}
+.header h1 {
+    margin: 10px 0;
+    font-size: 24px;
+    color: #333;
+}
+.form-container {
+    width: 1800px;
+    margin: 20px auto;
+    padding: 45px;
+    background-color: #ffeeee;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
